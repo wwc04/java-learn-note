@@ -1,5 +1,5 @@
 # java重点笔记
-[1.面向对象编程](https://github.com/wwc04/java-learn-note/tree/main/ObjectOrientedProgramming "面向对象编程")
+[（1）面向对象编程](https://github.com/wwc04/java-learn-note/tree/main/ObjectOrientedProgramming "面向对象编程")
 
 （2）常用Api
 
