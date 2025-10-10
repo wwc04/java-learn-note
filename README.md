@@ -24,7 +24,7 @@
  [7.多线程](https://github.com/wwc04/java-learn-note/tree/main/Thream "多线程")
 
 
- [8.网络通信](https://github.com/wwc04/java-learn-note/tree/main/NetCommnuication "网络通信")
+ [8.网络通信](https://github.com/wwc04/java-learn-note/tree/main/NetCommunication "网络通信")
 
 
  [9.反射](https://github.com/wwc04/java-learn-note/tree/main/Reflect "反射")
