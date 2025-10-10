@@ -1,6 +1,6 @@
 # java重点笔记
 ## [1.面向对象编程](https://github.com/wwc04/java-learn-note/tree/main/ObjectOrientedProgramming "面向对象编程")
-## 三大核心特性
+### 三大核心特性
 ### 封装
 将数据和对数据的操作封装在类中，隐藏内部实现细节，只暴露必要的接口
 通过访问修饰符（public、protected、private）控制成员的可见性
