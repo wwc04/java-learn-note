@@ -6,16 +6,16 @@
 （2）常用Api
 
 
-（3）异常
+ [2.异常](https://github.com/wwc04/java-learn-note/tree/main/Exception "异常")
 
 
-（4）集合
+ [3.集合](https://github.com/wwc04/java-learn-note/tree/main/Set "集合")
 
 
-（5）Stream流
+ [4.Stream流](https://github.com/wwc04/java-learn-note/tree/main/Stream "Stream流")
 
 
-（6）I/O流
+ [5.I/O流](https://github.com/wwc04/java-learn-note/tree/main/IO "I/O流")
 
 
 （7）日志技术
